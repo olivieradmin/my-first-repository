@@ -1,5 +1,13 @@
 # README #
 This is a project for learning git basics
+Mais nous aimeron vous dire une verite, et c'est la triste realite
+
+
+In this case, if you don't have any money, it's very difficult to many things
+
+
+hello ladies and gentlmen
+
 
 
 print(hello wrold)
